@@ -1,0 +1,10 @@
+horizon_months,model,MdAPE_%,MAPE_%,MAE_GHS,RMSE_GHS,beats_naive_%
+1,Naive carry-forward,6.27,16.71,1.0,2.01,
+1,Seasonal naive,36.32,40.31,2.78,3.9,
+1,LightGBM (FarmSmart),12.34,19.22,1.31,2.17,33.2
+3,Naive carry-forward,17.08,27.57,1.77,2.9,
+3,Seasonal naive,36.94,41.28,2.92,4.03,
+3,LightGBM (FarmSmart),21.31,29.58,2.04,3.06,41.5
+6,Naive carry-forward,28.76,38.66,2.61,3.77,
+6,Seasonal naive,38.35,42.9,3.11,4.2,
+6,LightGBM (FarmSmart),27.49,36.65,2.5,3.61,53.3
